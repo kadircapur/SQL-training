@@ -1,0 +1,6 @@
+DDL(DATA DEFINITION LANGUAGE)
+DML(DATA MANIPULATION LANGUAGE)
+
+Farkları
+DDL : Nesneler üzerindeki işlemler için kullanılır.
+DML : Veriler üerindeki işlemler için kullanılır.

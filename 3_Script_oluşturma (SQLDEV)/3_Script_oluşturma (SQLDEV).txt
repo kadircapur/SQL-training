@@ -1,0 +1,6 @@
+
+FILE - OPEN - TABLES klasörün içerisinde sql datası seçilir
+
+Dosya açıldıktan sonra, 'Run' seçeneğinin yanındaki 'Run Script' seçilir.
+
+Şema seçilir ve OK diyerek script oluşturulur.

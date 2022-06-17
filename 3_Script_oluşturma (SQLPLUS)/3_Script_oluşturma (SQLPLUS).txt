@@ -1,0 +1,12 @@
+
+MEHMET/123
+
+START D:/ora19c/TRAINS/TABLES/2_CONSTRAINTS.sql
+
+ENTER ile kod çalıştırılır.
+
+START yerine '@' işareti de koyulabilir.
+
+TEST_MEHMET altındaki Tables bölümüne sağ tıklanır ve 'refresh' edilerek tablolar çağrılır.
+
+
